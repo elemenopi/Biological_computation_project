@@ -27,7 +27,10 @@ linux/mac:
 source venv/bin/activate
 ### 4. Install dependencies
 pip install -r requirements.txt
+### 5.run
 
+python findMonotonic.py
+result is in monotonic_functions_table.png
 Project Structure
 findMonotonic.py: The main script that generates, filters, and visualizes monotonic functions.
 utils.py: A utility module containing helper functions for generating combinations, checking monotonicity, and mapping values to colors.
