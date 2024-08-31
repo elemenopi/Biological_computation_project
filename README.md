@@ -1,4 +1,4 @@
-# BiologicalComputation
+# Biological_computation_project
 Biological Computation final project
 By: Ilya Lipovan and Samy Nehmad
 ## Prerequisites
@@ -14,8 +14,8 @@ Follow these steps to clone the project, set up a virtual environment, install d
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/elemenopi/BiologicalComputation
-cd BiologicalComputation
+git clone https://github.com/elemenopi/Biological_computation_project
+cd Biological_computation_project
 
 ### 2. Create virtual enviroment
 python -m venv venv
