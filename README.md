@@ -33,4 +33,4 @@ findMonotonic.py: The main script that generates, filters, and visualizes monoto
 utils.py: A utility module containing helper functions for generating combinations, checking monotonicity, and mapping values to colors.
 requirements.txt: Lists the Python packages required to run the project.
 
-Second part of the project 
+Second part of the project is located in file: biologic_computation_final_2.pdf
