@@ -1,2 +1,35 @@
-# Biological_computation_project
-Biological_computation_project
+# BiologicalComputation
+Biological Computation final project
+By: Ilya Lipovan and Samy Nehmad
+## Prerequisites
+
+Make sure you have Python installed. It's recommended to use Python 3.7 or higher.
+
+## Getting Started
+
+Follow these steps to clone the project, set up a virtual environment, install dependencies, and run the script.
+
+### 1. Clone the Repository
+
+Start by cloning the repository to your local machine:
+
+```bash
+git clone https://github.com/elemenopi/BiologicalComputation
+cd BiologicalComputation
+
+### 2. Create virtual enviroment
+python -m venv venv
+### 3. Activate virtual enviroment
+windows:
+.\venv\Scripts\activate
+
+linux/mac:
+source venv/bin/activate
+### 4. Install dependencies
+pip install -r requirements.txt
+
+Project Structure
+findMonotonic.py: The main script that generates, filters, and visualizes monotonic functions.
+utils.py: A utility module containing helper functions for generating combinations, checking monotonicity, and mapping values to colors.
+requirements.txt: Lists the Python packages required to run the project.
+
